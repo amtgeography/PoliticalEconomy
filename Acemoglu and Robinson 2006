@@ -1,0 +1,139 @@
+Acemoglu & Robinson 2006: Economic Origins of Dictatorship and Democracy
+
+Brief: Presents a view of democratization as tied to rational behavior by characteristic agents engaged in time-sequenced game. Distinct economic classes with stable preferences contest level of economic distribution. Democratization results from inherent benefit of converting present-power into longer-lasting institutional power, and the outcome of contests between groups with different amounts and types of power. Utilizes economic reasoning to derive Nash equilibrium for a number of relevant models, implying a simple underlying theoretical structure to democratization.
+
+Part 1: Preface and Paths of Political Development
+
+History and Institutions are what determine a nation's end-state level of democratization, whether consolidated, unconsolidated, non-democracy, or repressed/delayed democracy
+ - democratization is effectively an inevitable process, with outcome of struggles between classes over time decisive in determing present-day level of democratization
+
+UK serves as a model of gradual/inexorable democratization with consolidation, where parliaments established by aristocrats to counter royal taxation evolved over time
+ - characterized by slow success over centuries of out-groups demanding the right to participate in the political process (vote)
+
+Argentina models the unconsolidated type of democracy/trajectory, where coups and counter-coups form key part of recent political history
+ - Essentially, it has slipped into and back out of democracy, depending on the balance of power in the country in a given crisis
+
+Singapore presents an example of a successful non-democracy, or illiberal democracy, where pressures to democratize have not been strong
+ - So the country is stable and yet non-democratic, which poses a challenge to views on inevitable democratization
+
+South Africa represents the paradigmatic case of an unstable/delayed/repressed democracy, remaining mired in apartheid until relatively recently
+ - White fears of a black majority melded together race and politics, producing a more volatile situation in theory and practice
+
+Argument presumes a majority that is poor and a minority that is rich, with this latter group forming a ruling elite, the two classes locked in a sequential 'game'
+ - poor want to force the rich to redistribute wealth via taxation, rich oppose this, and the character of the contest + balance of power are vital
+
+Democracy is fundamentally about political equality, rather than control over society being exerted by a privileged subset, which can rig the game
+ - Equality matters because if individuals are assumed to have defined preferences, they will tend to act rationally to pursue them - rich have more resources
+
+Any policy can be expected to have distributional implications, because pareto conditions rarely achieved in practice, so there will be 'losers'
+ - Contest and conflict are inevitable, and the fight is often waged over institutions (like government) that can alter the future balance of power in society
+
+These institutions offer the ability to take momentary, present-period (often fleeting) power and convert it into something longer-lasting
+ - Democratic institutions give the majority greater power to control policy, particularly tax rates and redistribution of wealth
+
+In non-democracy, citizens do have power, but it is primarily tied to their ability to surmount collective action problems and revolt
+ - Elites can choose to repress, but both revolution and repression incur costs on participants, that leaves both worse off - compromise is beneficial
+
+A number of factors impact this struggle, and help determine the democratization trajectory observed both in initial formation of democracy and long-term consolidation
+ - Civil society, existing political institutions, identity of participants and nature of their conflicts, sources and type of income/wealth, level of inequality, middle class
+
+Part 2: Modeling Politics
+
+Arrow's theorem argues that individual rational actors preferences are not easily aggregated, no pareto-optimal outcomes really possible - there will be winners/losers
+ - Still, assuming that voters have single-peaked, rank-ordered preferences, Black's median voter theorem implies that median voter preferences are decisive
+
+Downsian policy convergence argues that given the median voter theorem, parties in a democracy will tend to adopt similar policies
+ - Given that the median voter is on the poorer side in the 2-class model, democracy will tend to result in redistribution by default
+
+When conflicts between distinct classes are modeled over time, distinct strategies governed by Nash equilibrium (unique to each model) result
+ - In a non-democratic society, the costs of revolution and repression are the key constraints governing long-term path towards democratization
+
+Olson's view on collective action problems useful, demonstrates the costs inherent in coordinating a revolution across a broad society
+ - Individual choice to defect where rational creates need for enforcement institutions to keep the collective coherent
+
+Prop 5.1: For elites, cost of repression determine willingness to make democratic concessions in face of threat of revolt
+Prop 5.2: But elites have a problem: they cannot credibly commit to not use their disproportionate control over repression mechanisms to renege on concessions
+Prop 5.3: Elites can and will alter their strategy as required and even concede to the masses, but meaningless if they aren't trusted
+
+Part 3: The Creation and Consolidation of Democracy
+
+Institutions are the instrument that allow elites to surmount their problem of lacking credibility, they allow conversion of temporary into formal power
+ - Power is always shifting, and so elites have an incentive to institutionalize a present-time advantage wherever possible
+
+Prop 6.1: When inequality grows, revolution pressures grow, concessions become required, but committment becomes an even larger issue
+ - because disparities in power, tied to disparities in wealth, make it even harder to trust the good will of the elites
+
+Prop 6.2: When elites cannot credibly commit, their only choice is to repress, with the outcome being decided largely by power of revolt
+ - This produces non-monotonic relationship, where too much inequality produces perpetual repression but too low inequality undermines revolt incentives
+
+Prop 6.3: Democracy arises when repression is costly enough that elites lose (either by conceding or physically losing)
+Prop 6.4: Concentration of power/wealth in elite hands becomes destabilizing, so inequality is a fundmental driving factor in democratization
+Prop 6.5: Ideology can play a crucial role, altering perceived costs and creating party structures that may further distort situation
+Prop 6.6: Increasing inequality, all else equal, makes the decision to repress more likely because stakes are higher if redistribution happens
+
+Some inequality is necessary to produce the difference between rich/poor elite/masses that drives further political competition
+ - too low, and no one bothers to revolt or repress, but too high and elites always choose to repress, so middling levels conducive to democratization
+
+Prop 7.1: Coups represent an elite attempt to influence future redistribution, where democracy/redistribution poses high threat
+Prop 7.2: Citizens tend to always prefer democracy, but elites tend to split along hardline/softline divide, so tendency towards gradual democratization
+Prop 7.3: Coups tend to occur where democracy threatens too much redistribution, with type of wealth held by elites important
+
+Part 4: Putting the Models to Work [Part 5 - Conclusion re-states most of above]
+
+Role of the middle class is very important, including in models as an intermediary actor adds richness and realism
+ - Barrington Moore credited with bringing particular emphasis to the role of the middle class in determining outcome of democratization
+
+Presence of a strong middle class is a major factor in Europe's trajectory of gradual movement to and consolidation of democracy
+ - It functions as a buffer between more extreme interests of rich and poor, in co-opting poor will create acceptable pace of reform
+
+Prop 8.1: Middle class creates a pull towards democracy, acting as a miniature (less threatening) alternative to the poor
+ - Balance of power again key, with strong middle class using poor's numbers as leverage to negotiate democratic reform, weak middle class tends to bandwagon
+
+Prop 8.2: Strong middle class mitigates repression, and a weak middle class tends to produce a higher tendency towards only partial democratization
+Prop 8.3: Elites tend to democratize in the wake of failed repression, likely due to influence of middle class
+Prop 8.4: Any split among the elites tends to aid democratization, unless the middle class is too rich relative to the poor and opposes redistribution
+Prop 8.5: Elites less likely to launch coup when middle class is strong, as they will buffer poor demands for redistribution
+
+Land is a crucial underlying factor, as it is immobile capital and often entirely under elite control for reasons of history (and colonialism)
+ - Landed elites capital is vulnerable to appropriation and not easily subdivided without elites losing control, so they fight for it
+
+Industrial capital is both more fungible and more likely to be owned by or in other ways tied to the middle class, and partially mobile
+ - Industrial elites are on the whole less likely to favor repression and can more easily protect their interests in democracy via role as employers
+
+Concluding Thoughts [Mine]
+
+ - Perspective shares the strengths and weaknesses of all economic reasoning relying on rational individuals as the basic unit of analysis
+ - Intuitive, and broadly accurate portrayal of the historic processes, adding credibility to the models (again, broadly)
+ - Suffers from the same democracy-as-inevitable bias as many works in western science rooted in assessment of Western European history
+ - Offers excellent predictive capabilities subject to further investigation, and insights into the contemporary American political crisis
+ - If tied to a systems ecology view of multiple agents interacting in a resource-constrained ecosystem (complex adaptive system), likely get very interesting insights 
+ - Curiosity: if individual preferences are systematically unstable, lacking clearly defined peaks, better to assume multiple equilibria? What then of Nash equilibrium logic?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
