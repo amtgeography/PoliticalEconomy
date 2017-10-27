@@ -1,0 +1,116 @@
+Besley, 2006. Principled Agents
+
+In brief: Application of economic theory/reasoning to consider government failure as an analog to market failure. Roots argument in individualist rationalism, backed by formal logic and limited empirics.
+
+Chapter 1: Competing views on Government
+
+Economic theory tends to theorize government two ways: defender of public OR private interest
+ - Essentially a way to mitigate market failure OR a site for rent seeking [welfare econ vs. Pub Choice]
+
+Besley emphasizes resource allocation via principle-agent interactions as core of government
+ - Structure matters greatly, but agent incentives drive their behavior within the structure
+
+The two major economic schools of thought each offers logical and opposing prescriptions for govt
+ - but both leave gaps in explanation, objective of this book to offer another perspective
+
+As with the difficulty in theorizing government, "good" government also contested
+ - Political Economy is relatively young and developing rapidly, still working such matters out
+
+But neither standard approach can address important questions of how/why polticians go for office
+ - It is clear that democracy is heavily influenced by agent/actor incentives as office holders
+
+Chapter 2: Anatomy of Government Failure 
+
+Governments fail, but in general the reasons are poorly theorized - resource allocation failure key
+ - Political failure here considered a subset of government failure, focused on democracies alone
+
+3 Primary types of government failure: pareto, social welfare, Wicksellian
+ - Essentially, failure to be efficient versus wrong/biased welfare choice versus liberty constriction
+
+Pareto logic (inefficiency) too weak, Wicksellian is too stringent a criteria
+ - but the social welfare approach presumes knowing what social welfare function is valued by people
+
+Ignorance (lack of information), Influence (corruption and/or rent seeking), Leadership quality vital
+ - Can't be efficient with bad info, incentives to cheat are always present, need good leaders
+
+Political failures (as subset) stem from issues in the voting process as well as bargaining/logrolling
+ - Hard to pin down these and their effects
+
+Adding a temporal dimension naturally complicates analysis, with linkages over time playing role
+ - So the architecture of the system needs to be better understood, it plays crucial role
+
+Chapter 3: Political Agency and Accountability
+
+Principle-Agent frame connects the public (principal) with the politician (agent)
+ - inverted from the usual use in economics, where gov't maximizes welfare and observes preferences
+
+Incentive problems arise due to politician's information advantage as a result of position
+ - Monitoring for opportunistic behavior and selection for competent politicians crucial
+
+Elections are supposed to solve the information problem, but this is a huge (asknowledged) assumption
+ - Ideally constitutional arrangements/architecture prevent major distortions, too complex to deal with here
+
+At heart of the P-A formulation is the mitigation of moral hazard, tie agents to principal's wishes
+ - Good behavior must be rewarded and bad behavior punished (from perspective of principal)
+
+Agency model essentially time-sequentiual game, politicians versus agents
+ - Politicians hold power/control policy so long as they are re-elected, effectively drawn from a pool
+
+4 key issues to consider:
+ - Uncertainty: over what voters can observe, agent self-perception, actual effects of policy
+ - Motivations: Politicians could "care"/be faithful, or they could be rent or legacy seeking
+ - Accountability: Agency held by group (like a party) is more complex [multiple individual sub-agents]
+ - Retrospective Voting: Actual voter behavior vague in reality, how much info they have unknown
+
+Combining a Moral Hazard model (rent-seeking agents) with Adverse Selection model (punished pols) useful
+ - baseline model used allows for retrospective voting, models at two sequential time-steps/rounds
+
+Prop1: Congruent and Dissonant politician types, differentiated by elections + incumbent advantage
+ - Elections force Dissonant pols (rent-seeking) to mimic Congruent (faithful agent) pols 
+
+Evidence from US Governor dataset supports term limit effect, govs get punished for raising taxes
+ - But non running govs face no punishment, and are willing to be Congruent (from party perspective)
+
+Prop 2: Non-partisan voter welfare decreased when incumbent has advantage
+ - implication, lower levels of polarization and low noise-voting and balanced competition = good govt
+
+But it is important to note that good politicans MUST be rewarded, or bad politicians gain an advantage
+ - Noise voting over policy-inconsequential matters is damaging, incurs information costs on voters
+
+Prop 3: Voter welfare goes up with increased information IFF info is policy relevant
+ - In cases where noise voting/irrelevant info is high & "good" politician pool is shallow = BAD
+
+Prop 4: Dissonant politicians choose behavior strategy based on voters in order to survive
+ - But voter strategies interact, are complicated, so Dissonant pols can hide
+
+Prop 5: No term limits will tend to discipline Dissonant politicians
+Prop 6: More patient dissonant politicians will tend to conform to preserve what rents they hold
+
+Multiple agents in the system complicates for all agents, competition incurs costs among them
+ - But because of added costs and noise, dissonant politicans can go lax on their discipline
+
+Prop 7: Dissonant-type politicians tie their behavior to anticipated/realized rents
+ - So if there are to be multiple agents, then these agents must be forced to compete
+
+All in all, this reasoning seems to bear out Putnams arguments with respect to democracy
+ - an unanswered question is how much rationality actually matters to this perspective
+
+Chapter 4: Public Agency & Public Finance   &  Chapter 5: Concluding Thoughts
+
+If governments were benevolent, then any restrictions on them would reduce voter welfare
+ - So recognizing the reality of imperfect government, rules are necessary. Good ones, well considered
+
+Political Theory of the Second-Best by [Fisher & Summers 1989] via [Lipsey & Lancaster 1956]
+ - Basically, because the world never fits our ideals, we have to hedge by accepting 2nd-best solutions
+
+Good politicians and bad politicians in this model assume the bad ones are strategic and rent-seeking
+ - the "leviathan" model [Brennan & Buchannan] assumes that ALL are bad, which is just a special case
+
+In a pure adverse selkection model, either all bad & some politicians get re-elected, or no bad & some good do
+ - Either way raising taxes incurs a cost on politicians, and only remedy is to have good pols in pool
+
+Pure moral hazard model will indicate that all politician rent-seeking opportunities must be constrained
+ - Agency problems may lead to smaller government in this scenario, with lower capacity
+
+So if you combine both extreme types of model, you can create an equilibrium space useful for analysis
+ - but many other issues remain, including inefficiencies in tax systems, working elections, and differentiated politicians
